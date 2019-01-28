@@ -1,4 +1,4 @@
-package giaipt;
+﻿package giaipt;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class giaiptb2 {
 		double b = new Scanner(System.in).nextDouble();
 		System.out.print("Nhập c:");
 		double c = new Scanner(System.in).nextDouble();
-		
+		//gghghghggg
 		if (a==0) {
 			if (c==0 && b==0)
 				System.out.println("Phương trình vô số nghiệm");
